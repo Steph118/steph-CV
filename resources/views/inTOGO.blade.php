@@ -47,6 +47,7 @@
                         <div class="swiper-pagination"></div>
                     </div>
                 </div>
+                <!-- infos sur intogo -->
                 <div class="col-lg-4">
                     <div class="portfolio-info">
                         <h3>Informations sur inTOGO</h3>
@@ -56,14 +57,13 @@
                             <li><strong>URL du site</strong>: <a href="#">www.example.com</a></li>
                         </ul>
                     </div>
+
                     <div class="portfolio-description">
                         <h2>Ceci est un exemple de détails sur inTOGO.</h2>
                         <p>
                             <strong>inTOGO</strong> est une plateforme web qui permet de promouvoir des produits uniquement togolais dans différentes catégories:
                             artisanat, couture, agroalimentaire...<br>
                             Ceci permet de mettre en avance des produits made in Togo.
-
-
                         </br>
                     </div>
                 </div>
