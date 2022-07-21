@@ -47,7 +47,6 @@
                         <div class="swiper-pagination"></div>
                     </div>
                 </div>
-
                 <div class="col-lg-4">
                     <div class="portfolio-info">
                         <h3>Informations sur inTOGO</h3>
