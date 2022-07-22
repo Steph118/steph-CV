@@ -40,7 +40,7 @@
 </header><!-- End Header -->
 
 <!-- ======= Hero Section ======= -->
-<section id="hero" class="d-flex flex-column justify-content-center align-items-center bg-success">
+<section id="hero" class="d-flex flex-column justify-content-center align-items-center" style=" background-image: url('assets/img/')">
     <div class="hero-container" data-aos="fade-in">
         <h1>StephCV</h1>
         <p>Je suis un <span class="typed" data-typed-items="Développeur, Programmeur"></span></p>
@@ -513,7 +513,7 @@
                         <div class="row">
                             <div class="form-group col-md-6">
                                 <label for="name">Votre nom</label>
-                                <input type="text" name="name" id="name" class="form-control @error('name') is-invalid @enderror" value="{{old('name')}}" required>
+                                <input type="text" name="name" id="name" class="rounded-3 form-control @error('name') is-invalid @enderror" value="{{old('name')}}" required>
                                 <div class=" alert-danger" style="color:red">
                                     @error('name')
                                     {{ $message }}
@@ -522,27 +522,29 @@
                             </div>
                             <div class="form-group col-md-6">
                                 <label for="email">Votre email</label>
-                                <input type="email" name="email" id="email" class="form-control @error('email') is-invalid @enderror" value="{{old('email')}}" required>
+                                <input type="email" name="email" id="email" class="rounded-3 form-control @error('email') is-invalid @enderror" value="{{old('email')}}" required>
                                 <div class=" alert-danger" style="color:red">
                                     @error('email')
                                     {{ $message }}
                                     @enderror
                                 </div>
                             </div>
-                        </div>
+                        </div><br><br>
 
                         <div class="form-group">
                             <label for="sujet">Sujet</label>
+                            <span class="text-success font-monospace">( *** Le sujet doit contenir au moins 3 caractères ***)</span>
                             <input type="text" name="sujet" id="sujet" class="form-control @error('sujet') is-invalid @enderror" value="{{old('sujet')}}" required>
                             <div class=" alert-danger" style="color:red">
                                 @error('sujet')
                                 {{ $message }}
                                 @enderror
                             </div>
-                        </div>
+                        </div> <br><br>
 
                         <div class="form-group">
                             <label>Message</label>
+                            <span class="text-success font-monospace">( *** Le message doit contenir au moins 5 caractères ***)</span>
                             <textarea name="messages" id="messages" class="form-control @error('messages') is-invalid @enderror" rows="10" value="{{old('messages')}}" required></textarea>
                             <div class=" alert-danger" style="color:red">
                                 @error('messages')
