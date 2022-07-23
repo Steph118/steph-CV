@@ -40,7 +40,7 @@
 </header><!-- End Header -->
 
 <!-- ======= Hero Section ======= -->
-<section id="hero" class="d-flex flex-column justify-content-center align-items-center" style=" background-image: url('assets/img/')">
+<section id="hero" class="d-flex flex-column justify-content-center align-items-center" style=" background-image: url('assets/img/steph3.jpg')">
     <div class="hero-container" data-aos="fade-in">
         <h1>StephCV</h1>
         <p>Je suis un <span class="typed" data-typed-items="Développeur, Programmeur"></span></p>
