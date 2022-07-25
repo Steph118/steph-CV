@@ -263,7 +263,7 @@
 
                 <div class="col-lg-3" data-aos="fade-up">
                     <h3 style="font-weight: bold;">C++</h3>
-                    <img src="{{asset('assets/img/booty.jpeg')}}" alt="">
+                    <img src="{{asset('assets/img/')}}" alt="">
                 </div>
 
             </div>
