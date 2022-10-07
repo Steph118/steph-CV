@@ -246,7 +246,7 @@
                 <h2>Compétences</h2>
             </div>
             <div class="section-title">
-                Il s'agit des maîtrises que j'ai dans le domaine
+                Il s'agit des technologies que j'utilise
             </div>
             <!--<div class="row skills-content  text-center">
                 <div class="col-3" data-aos="fade-up">
@@ -268,7 +268,7 @@
                     <img src="{{asset('assets/img/')}}" alt="">
                 </div>
 
-            </div>-->
+            </div>
             <div style="border: 2px solid ;">
             <table>
             <tr class=" skills-content  text-center">
@@ -304,7 +304,7 @@
                     <h3 style="font-weight: bold;">JEE</h3>
                     </td>
 
-            </table></div>
+            </table></div>-->
 
             <!--<div class="row skills-content  text-center">
                 <div class="col-3" data-aos="fade-up">
