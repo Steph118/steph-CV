@@ -271,23 +271,39 @@
             </div>-->
             <div style="border: 2px solid ;">
             <table>
-            <tr class="row skills-content  text-center">
-                <td class="col-3" data-aos="fade-up">
+            <tr class=" skills-content  text-center">
+                <td  data-aos="fade-up">
                     <h3 style="font-weight: bold;">HTML</h3>
                                 </td>
-                <td class="col-3" data-aos="fade-up" data-aos-delay="100">
+                <td data-aos="fade-up" data-aos-delay="100">
                     <h3 style="font-weight: bold;">CSS</h3>
                     </td>
 
-                <td class="col-lg-3" data-aos="fade-up">
+                <td  data-aos="fade-up">
                     <h3 style="font-weight: bold;">Java Script</h3>
                     </td>
 
-                <td class="col-lg-3" data-aos="fade-up">
+                <td  data-aos="fade-up">
                     <h3 style="font-weight: bold;">JEE</h3>
                     </td>
 
             </tr>
+            <tr class="skills-content  text-center">
+                <td  data-aos="fade-up">
+                    <h3 style="font-weight: bold;">HTML</h3>
+                                </td>
+                <td  data-aos="fade-up" data-aos-delay="100">
+                    <h3 style="font-weight: bold;">CSS</h3>
+                    </td>
+
+                <td  data-aos="fade-up">
+                    <h3 style="font-weight: bold;">Java Script</h3>
+                    </td>
+
+                <td data-aos="fade-up">
+                    <h3 style="font-weight: bold;">JEE</h3>
+                    </td>
+
             </table></div>
 
             <!--<div class="row skills-content  text-center">
@@ -311,26 +327,6 @@
                 </div>
 
             </div>-->
-            <div style="border: 2px solid ;">
-            <table>
-            <tr class="row skills-content  text-center">
-                <td class="col-3" data-aos="fade-up">
-                    <h3 style="font-weight: bold;">HTML</h3>
-                                </td>
-                <td class="col-3" data-aos="fade-up" data-aos-delay="100">
-                    <h3 style="font-weight: bold;">CSS</h3>
-                    </td>
-
-                <td class="col-lg-3" data-aos="fade-up">
-                    <h3 style="font-weight: bold;">Java Script</h3>
-                    </td>
-
-                <td class="col-lg-3" data-aos="fade-up">
-                    <h3 style="font-weight: bold;">JEE</h3>
-                    </td>
-
-            </tr>
-            </table></div>
 
         </div>
     </section><!--Fin Secton de Compétences -->
