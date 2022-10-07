@@ -66,7 +66,7 @@
                     <img src="{{asset('assets/img/PP_about.png')}}" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-                    <h3>Programmeur &amp; Développeur Web.</h3>
+                    <h3>Programmeur &amp; Développeur Web/Mobile.</h3>
                     <p class="fst-italic">
                         Je suis un Développeur web et Programmeur.
                     </p><br>
@@ -210,13 +210,15 @@
                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                     <h3 class="resume-title text-success">Expérience Professionnelle</h3>
                     <div class="resume-item">
-                        <h4>Expérience 1</h4>
-                        <h5>Durée</h5>
-                        <p><em>lieu</em></p>
+                        <h4>Stage professionel</h4>
+                        <h5>En cours</h5>
+                        <p><em>Sagbado</em></p>
                         <ul>
-                            <li>Développement 1</li>
-                            <li>Développement 2</li>
-                            <li>Développement 3</li>
+                            <li>C'est mon premier stage professionel que j'effectue en tant que développeur.</li>
+                            <li>Ce stage se déroule dams l'entreprise MediaSoft. MediaSoft met en place des applications web et mobile, des logiciels de microfinance,
+                                pour plus d'information consulter <a href="https://www.mediasofthome.com/index.php">site officile MediaSoft</a>  
+                            </li>
+                            <li>Technologies étudiées : JEE, Android</li>
                         </ul>
                     </div>
                     <div class="resume-item">
