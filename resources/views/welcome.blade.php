@@ -248,7 +248,7 @@
             <div class="section-title">
                 Il s'agit des maîtrises que j'ai dans le domaine
             </div>
-            <div class="row skills-content  text-center">
+            <!--<div class="row skills-content  text-center">
                 <div class="col-3" data-aos="fade-up">
                     <h3 style="font-weight: bold;">HTML</h3>
                     <img src="{{asset('assets/img/')}}" alt="">
@@ -268,7 +268,27 @@
                     <img src="{{asset('assets/img/')}}" alt="">
                 </div>
 
-            </div>
+            </div>-->
+            <div>
+            <table>
+            <tr class="row skills-content  text-center">
+                <td class="col-3" data-aos="fade-up">
+                    <h3 style="font-weight: bold;">HTML</h3>
+                                </td>
+                <td class="col-3" data-aos="fade-up" data-aos-delay="100">
+                    <h3 style="font-weight: bold;">CSS</h3>
+                    </td>
+
+                <td class="col-lg-3" data-aos="fade-up">
+                    <h3 style="font-weight: bold;">Java Script</h3>
+                    </td>
+
+                <td class="col-lg-3" data-aos="fade-up">
+                    <h3 style="font-weight: bold;">JEE</h3>
+                    </td>
+
+            </tr>
+            </table></div>
 
             <div class="row skills-content  text-center">
                 <div class="col-3" data-aos="fade-up">
